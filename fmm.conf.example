@@ -1,0 +1,14 @@
+[FMM]
+MaxSize = 0.5
+OverlapTolerance = 0.5
+StorePath = result
+
+[Data]
+Length = 64
+Classes = 10
+
+[Train Set]
+DatasetPath = train/data
+TagPath = train/tag
+TagLength = 4
+
